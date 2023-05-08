@@ -1,6 +1,5 @@
-# CPyProjectTemplate
-Put a description for your project here!
-This repo is a template VS code project for CircuitPython projects that automatically uploads your code to the board when you press F5. Requires F5Anything extension.
+# aaron Engineering 3 Notebook
+This is my Engineering Notebook where I describe all the projects that I do at Engineering 3 at Charlottesville High School
 ## Use
 ### Every new project:
 1. Make a GitHub account if you don't have one with your normal school credentials and sign into it.
