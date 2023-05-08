@@ -6,10 +6,10 @@ This is my Engineering Notebook where I describe all the projects that I do at E
 * [Table of Contents](#Table-of-Contents)
 * [HelloCircuitPython](#HelloCircuitPython)
 * [CircuitPythonServo](#CircuitPythonServo)
-* [Fork](#Fork)
-* [Tire](#Tire)
-* [Wheel](#Wheel)
-* [AxleCollarBearings](#AxleCollarBearings)
+* [CircuitPythonDistanceSensor](#CircuitPythonDistanceSensor)
+* [CircuitPythonLCD](#CircuitPythonLCD)
+* [MotorControl](#MotorControl)
+* [TemperatureSensor](#TemperatureSensor)
 
 ---
 
@@ -42,17 +42,56 @@ Im going to make a servo work in CurcuitPython
 ---
 
 
-## assigment
+## CircuitPythonDistanceSensor
 
 ### Description
-
+Im going to get the disatance sensor read how far the nearest object is
 ### Evidence
 
 ### Image
 
 ### Reflection
 
+------
+
+
+## CircuitPythonLCD
+
+### Description
+im going to get the LCD pack displaying numbers
+### Evidence
+
+### Image
+
+### Reflection
 ---
+
+
+## MotorControl
+
+### Description
+You use a potentiometer to control the motor
+ 
+### Evidence
+
+### Image
+
+### Reflection
+---
+
+
+## TemperatureSensor
+
+### Description
+ Im going to get the TemperatureSensor working
+### Evidence
+
+### Image
+
+### Reflection
+
+
+
 
 ## Example Markdown
 ## Base
