@@ -17,6 +17,8 @@ This is my Engineering Notebook where I describe all the projects that I do at E
 
 ### Description
 
+Show that i've got the metro and vsCode working.
+
 ### Evidence
 
 ### Image
