@@ -4,7 +4,7 @@ This is my Engineering Notebook where I describe all the projects that I do at E
 ---
 ## Table of Contents
 * [Table of Contents](#Table-of-Contents)
-* [Hello CircuitPython (and VS Code!)](#Hello CircuitPython (and VS Code!))
+* [HelloCircuitPython](#HelloCircuitPython)
 * [Mount](#Mount)
 * [Fork](#Fork)
 * [Tire](#Tire)
@@ -13,7 +13,7 @@ This is my Engineering Notebook where I describe all the projects that I do at E
 
 ---
 
-## Hello CircuitPython (and VS Code!)
+## HelloCircuitPython
 
 ### Description
 
